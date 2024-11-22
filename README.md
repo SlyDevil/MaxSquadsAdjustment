@@ -1,6 +1,8 @@
 # MaxSquadsAdjustment
 Sets max squad size to 14 and reworks Master of Maneuver
 
+Unforunately the setting in toybox only increases the max squad size to 14 for armies, but it doesn't increase the max squads that can be fielded in tactical combats. This mod increases the latter to 14, and adjusts base size and MoM to reach 14 on the world map.
+
 Starting squad number for armies is 4 instead of default 3.
 
 Master of Maneuver is changed from 1 bonus squad to 3 for the first 3 tiers.
